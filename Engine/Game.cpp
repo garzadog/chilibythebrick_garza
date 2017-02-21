@@ -47,7 +47,7 @@ Game::Game(MainWindow& wnd)
 	Beep(698, 100);
 	Beep(784, 100);
 
-}
+}//Just a comment for my first branch
 
 void Game::Go()
 {
